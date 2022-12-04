@@ -22,7 +22,7 @@ import (
 
 func main()  {
 	pascal := name.GeneratePascalName("one")   // EasySpider
-	camel := name.GenerateCamelCaseName("two") // smallSheep
+	camel := name.GenerateCamelCaseName("one") // easySpider
 	fmt.Println(pascal, camel)
 }
 ```
