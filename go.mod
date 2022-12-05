@@ -1,4 +1,4 @@
-module github.com/frederikhs/name
+module github.com/frederikhs/namer
 
 go 1.17
 

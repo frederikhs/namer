@@ -1,4 +1,4 @@
-package name
+package namer
 
 import (
 	"golang.org/x/text/cases"

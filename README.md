@@ -1,6 +1,6 @@
-# name
+# namer
 
-[![Test](https://github.com/frederikhs/name/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/frederikhs/name/actions/workflows/test.yml)
+[![Test](https://github.com/frederikhs/namer/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/frederikhs/namer/actions/workflows/test.yml)
 
 Very, very simple module for getting reproducible random animal names
 
@@ -17,12 +17,12 @@ package main
 
 import (
 	"fmt"
-	"github.com/frederikhs/name"
+	"github.com/frederikhs/namer"
 )
 
 func main()  {
-	pascal := name.GeneratePascalName("one")   // EasySpider
-	camel := name.GenerateCamelCaseName("one") // easySpider
+	pascal := namer.GeneratePascalName("one")   // EasySpider
+	camel := namer.GenerateCamelCaseName("one") // easySpider
 	fmt.Println(pascal, camel)
 }
 ```
