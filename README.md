@@ -2,6 +2,7 @@
 
 [![Release](https://img.shields.io/github/v/release/frederikhs/namer.svg)](https://godoc.org/github.com/frederikhs/namer)
 [![GoDoc](https://godoc.org/github.com/frederikhs/namer?status.svg)](https://godoc.org/github.com/frederikhs/namer)
+[![Quality](https://goreportcard.com/badge/github.com/frederikhs/namer)](https://goreportcard.com/report/github.com/frederikhs/namer)
 [![Test](https://github.com/frederikhs/namer/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/frederikhs/namer/actions/workflows/test.yml)
 
 Very, very simple module for getting reproducible random animal names
